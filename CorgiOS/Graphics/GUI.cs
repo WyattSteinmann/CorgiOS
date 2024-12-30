@@ -16,11 +16,11 @@ namespace CorgiOS.Graphics
         public static uint ScreenHeight { get; private set; }
         public static SVGAIICanvas canvas;
 
-        public static void StartGUI(uint Width = 1920, uint Height = 1080)
+        public static void StartGUI()
         {
-            canvas = new SVGAIICanvas(new Mode(Width, Height, ColorDepth.ColorDepth32));
-            ScreenWidth = Width;
-            ScreenHeight = Height;
+            canvas = new SVGAIICanvas();
+            ScreenWidth = canvas.Mode.Width;
+            ScreenHeight = canvas.Mode.Height;
             MouseManager.ScreenWidth = ScreenWidth;
             MouseManager.ScreenHeight = ScreenHeight;
             MouseManager.X = ScreenWidth / 2;

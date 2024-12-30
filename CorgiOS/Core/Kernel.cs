@@ -53,26 +53,27 @@ namespace CorgiOS.Core
                 "╚██████╗╚██████╔╝██║  ██║╚██████╔╝██║    ╚██████╔╝███████║\n" +
                 " ╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═════╝ ╚══════╝\n"
             );
-
         }
-
         protected override void Run()
         {
             try
             {
-                if (lastHeapCollect == 20)
-                {
-                    Heap.Collect();
-                    lastHeapCollect = 0;
-                }
-                else
-                    lastHeapCollect++;
                 if (GUIOpen)
+                {
                     GUI.UpdateGUI();
+                    if (lastHeapCollect == 20)
+                    {
+                        Heap.Collect();
+                        lastHeapCollect = 0;
+                    }
+                    else
+                        lastHeapCollect++;
+                }
                 else
                 {
                     System.Console.Write("$ ");
                     System.Console.WriteLine(commandManager.processInput(System.Console.ReadLine()));
+                    Heap.Collect();
                 }
             }
             catch (Exception ex)
@@ -82,3 +83,4 @@ namespace CorgiOS.Core
         }
     }
 }
+

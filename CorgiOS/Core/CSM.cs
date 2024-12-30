@@ -9,7 +9,7 @@ namespace CorgiOS.Core
         public static void OnBoot()
         {
             Console.WriteLine("Hold down key 'C' to boot to corgi system manager.");
-            Thread.Sleep(500);
+            Thread.Sleep(2500);
             if (Console.KeyAvailable)
             {
                 var keyInfo = Console.ReadKey(true);

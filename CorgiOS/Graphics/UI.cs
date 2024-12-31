@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Drawing;
 using System.Threading;
 using CorgiOS.Core;
@@ -81,7 +81,7 @@ namespace CorgiOS.Graphics
                         if (mousePos.IntersectsWith(new Rectangle(15, (int)GUI.ScreenHeight - 395, (int)GUI.ScreenWidth / 6 - 10, 30)))
                         {
                             Start = false;
-                            new Terminal(Window.windows.Count * 25, Window.windows.Count * 25, (int)GUI.ScreenWidth / 4, (int)GUI.ScreenHeight / 4);
+                            new Terminal(Window.windows.Count * 25, Window.windows.Count * 25, (int)GUI.ScreenWidth / 2, (int)GUI.ScreenHeight / 2);
                         }
                         if (mousePos.IntersectsWith(new Rectangle(15, (int)GUI.ScreenHeight - 360, (int)GUI.ScreenWidth / 6 - 10, 30)))
                         {

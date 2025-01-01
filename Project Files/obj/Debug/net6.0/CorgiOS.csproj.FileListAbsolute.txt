@@ -1,0 +1,12 @@
+C:\Users\wyatt\source\repos\CorgiOS\CorgiOS\bin\Debug\net6.0\CorgiOS.deps.json
+C:\Users\wyatt\source\repos\CorgiOS\CorgiOS\bin\Debug\net6.0\CorgiOS.dll
+C:\Users\wyatt\source\repos\CorgiOS\CorgiOS\bin\Debug\net6.0\CorgiOS.pdb
+C:\Users\wyatt\source\repos\CorgiOS\CorgiOS\obj\Debug\net6.0\CorgiOS.csproj.AssemblyReference.cache
+C:\Users\wyatt\source\repos\CorgiOS\CorgiOS\obj\Debug\net6.0\CorgiOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wyatt\source\repos\CorgiOS\CorgiOS\obj\Debug\net6.0\CorgiOS.AssemblyInfoInputs.cache
+C:\Users\wyatt\source\repos\CorgiOS\CorgiOS\obj\Debug\net6.0\CorgiOS.AssemblyInfo.cs
+C:\Users\wyatt\source\repos\CorgiOS\CorgiOS\obj\Debug\net6.0\CorgiOS.csproj.CoreCompileInputs.cache
+C:\Users\wyatt\source\repos\CorgiOS\CorgiOS\obj\Debug\net6.0\CorgiOS.dll
+C:\Users\wyatt\source\repos\CorgiOS\CorgiOS\obj\Debug\net6.0\refint\CorgiOS.dll
+C:\Users\wyatt\source\repos\CorgiOS\CorgiOS\obj\Debug\net6.0\CorgiOS.pdb
+C:\Users\wyatt\source\repos\CorgiOS\CorgiOS\obj\Debug\net6.0\ref\CorgiOS.dll

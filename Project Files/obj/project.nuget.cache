@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "KK5Pp8Sp1zM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wyatt\\source\\repos\\CorgiOS\\CorgiOS\\CorgiOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wyatt\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20241005092630\\cosmos.build.0.1.0-localbuild20241005092630.nupkg.sha512",
+    "C:\\Users\\wyatt\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20241005092645\\cosmos.common.0.1.0-localbuild20241005092645.nupkg.sha512",
+    "C:\\Users\\wyatt\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20241005092645\\cosmos.core.0.1.0-localbuild20241005092645.nupkg.sha512",
+    "C:\\Users\\wyatt\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20241005092645\\cosmos.debug.kernel.0.1.0-localbuild20241005092645.nupkg.sha512",
+    "C:\\Users\\wyatt\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20241005092645\\cosmos.hal2.0.1.0-localbuild20241005092645.nupkg.sha512",
+    "C:\\Users\\wyatt\\.nuget\\packages\\cosmos.plugs\\0.1.0-localbuild20241005092645\\cosmos.plugs.0.1.0-localbuild20241005092645.nupkg.sha512",
+    "C:\\Users\\wyatt\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20241005092645\\cosmos.system2.0.1.0-localbuild20241005092645.nupkg.sha512",
+    "C:\\Users\\wyatt\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20241005092645\\il2cpu.api.0.1.0-localbuild20241005092645.nupkg.sha512"
+  ],
+  "logs": []
+}

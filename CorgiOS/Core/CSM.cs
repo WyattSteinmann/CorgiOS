@@ -20,7 +20,7 @@ namespace CorgiOS.Core
                         Console.BackgroundColor = ConsoleColor.DarkCyan;
                         Console.Clear();
                         Console.WriteLine("Corgi system manager:");
-                        Console.WriteLine("[F1] Veiw System Info");
+                        Console.WriteLine("[F1] View System Info");
                         Console.WriteLine("[F2] System Speed Test");
                         Console.WriteLine("[F3] Boot To Console");
                         Console.WriteLine("[F4] Boot To Butter");
